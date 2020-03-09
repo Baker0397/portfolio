@@ -24,7 +24,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://www.linkedin.com/in/baker-mwanje-0b408a1a1/',
+      url: 'https://codepen.io/Baker97',
     },
     {
       name: 'Instagram',

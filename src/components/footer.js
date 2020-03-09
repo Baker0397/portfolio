@@ -107,7 +107,7 @@ const Footer = () => {
           href="https://github.com/Baker0397"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div> Developed by Baker Mwanje </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

@@ -1,14 +1,14 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
+title: 'DEV'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://dev.to/baker0397'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
+  - JS
+  - Angular
+  - ReactJS
 company: 'Scout'
 showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+I enjoy contributing and being part of the community at DEV.
